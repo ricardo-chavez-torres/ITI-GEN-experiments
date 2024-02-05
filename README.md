@@ -13,7 +13,7 @@ We recommend running the code in the order described in this document to avoid u
 To install requirements:
 
 ```setup
-pip install -r requirements.txt
+conda env create -f environment.yml
 ```
 
 >📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
