@@ -16,8 +16,6 @@ To install requirements:
 conda env create -f environment.yml
 ```
 
->📋  Describe how to set up the environment, e.g. pip/conda/docker commands, download datasets, etc...
-
 ## outline
 
  - [Installation](#installation)
