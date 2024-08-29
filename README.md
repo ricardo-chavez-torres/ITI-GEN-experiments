@@ -1,6 +1,6 @@
 # Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"
 
-This repository is the official implementation of [Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"](https://arxiv.org/abs/2030.12345). 
+This repository is based on the official implementation of [Reproducibility Study of "ITI-GEN: Inclusive Text-to-Image Generation"](https://arxiv.org/abs/2030.12345) to perform experiments. 
 
 ## Overview
 
